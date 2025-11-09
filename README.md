@@ -37,4 +37,6 @@ Here are a few screenshots:
 
 <img width="1863" height="876" alt="Screenshot 2025-11-09 191634" src="https://github.com/user-attachments/assets/cf5d39e6-aa89-4165-903d-16048a663604" />
 
+<img width="1864" height="875" alt="Screenshot 2025-11-09 191942" src="https://github.com/user-attachments/assets/b026415f-2a39-4dec-8c34-2324a44cbd10" />
+
 <img width="1866" height="877" alt="Screenshot 2025-11-09 192109" src="https://github.com/user-attachments/assets/e5045346-1000-474c-81c7-56ec0cb728fb" />
